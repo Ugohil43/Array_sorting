@@ -1,0 +1,5 @@
+.vscode/
+/build/*
+/release/*
+!/build/application*
+!/release/application*
